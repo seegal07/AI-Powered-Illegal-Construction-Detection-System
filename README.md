@@ -1,6 +1,9 @@
 # AI-Powered-Illegal-Construction-Detection-System
+
+Building AI course project
+
 An AI-based system for automatic identification of illegal constructions using data from the state cadastre, geospatial data, and aerial imagery.
-# Short Summary:
+## Short Summary:
 An AI-based system for automatic identification of illegal constructions using data from the state cadastre, geospatial data, and aerial imagery.
 ![image](https://github.com/seegal07/AI-Powered-Illegal-Construction-Detection-System/assets/111071467/9776f307-a591-4e61-a8aa-1ba68bbc9784)
 # Background:
