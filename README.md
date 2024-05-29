@@ -1,7 +1,5 @@
 # AI-Powered Illegal Construction Detection System
 
-Building AI course project
-
 # Summary
 An AI-based system for automatic identification of illegal constructions using data from the state cadastre, geospatial data, and aerial imagery. In today's dynamic world, ensuring the integrity of land ownership and combating illegal construction practices are crucial challenges. To address these issues effectively, an innovative AI-powered system for detecting illegal constructions is proposed. This system, leveraging the power of artificial intelligence, geospatial data, and aerial imagery, aims to revolutionize land monitoring and enforcement practices.
 
