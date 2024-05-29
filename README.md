@@ -2,10 +2,10 @@
 
 Building AI course project
 
-# Summary:
+# Summary
 An AI-based system for automatic identification of illegal constructions using data from the state cadastre, geospatial data, and aerial imagery. In today's dynamic world, ensuring the integrity of land ownership and combating illegal construction practices are crucial challenges. To address these issues effectively, an innovative AI-powered system for detecting illegal constructions is proposed. This system, leveraging the power of artificial intelligence, geospatial data, and aerial imagery, aims to revolutionize land monitoring and enforcement practices.
 
-# Background:
+# Background
 Problem:
 •	Land grabbing (illegal construction with the aim of subsequent legalization).
 •	The complexity and high cost of identifying illegal construction at the early stages.
@@ -14,7 +14,7 @@ Solution:
 •	An automated AI-based system for detecting illegal constructions.
 •	Preventing land ownership losses for landowners.
 •	Cost savings for illegal builders, timely awareness of the consequences of their actions.
-# Data Processing and AI Methods:
+# Data Processing and AI Methods
 
 •	Data Usage:
 o	State cadastre (information on owners, land boundaries).
@@ -29,7 +29,7 @@ o	Object Classification:
 o	Model Training:
 	Using datasets with labeled examples (legal/illegal buildings).
 	Improving system accuracy over time.
-# How it is Used:
+# How it is Used
 
 •	Landowners:
 o	Monitoring their land for illegal encroachment.
@@ -38,7 +38,7 @@ o	Receiving notifications of potential violations.
 o	Monitoring compliance with land laws.
 o	Effectively planning and conducting inspections.
 o	Preventing land grabs and illegal construction.
-# Challenges:
+# Challenges
 
 •	Limited Data Availability:
 o	The need for up-to-date and complete data from the cadastre.
@@ -49,7 +49,7 @@ o	Legal nuances requiring expert assessment.
 •	False Positives:
 o	The need to improve AI algorithms to minimize errors.
 o	Manual verification of potential violations.
-# What's Next:
+# What's Next
 
 •	Expanding Functionality:
 o	Assessing the legality of existing buildings.
@@ -73,7 +73,7 @@ o	Identifying inconsistencies in height, shape, and location.
 •	Reinforcement Learning Algorithms:
 o	Optimizing the system to minimize false positives.
 o	Automatic learning based on new data and examples.
-# Competitive Landscape:
+# Competitive Landscape
 
 While various land monitoring solutions exist, most fail to fully leverage AI. Key competitors include:
 •	Satellite Monitoring Systems:
@@ -91,7 +91,7 @@ o	Utilizes AI algorithms to minimize errors.
 o	Analyzes diverse data sources for a complete picture.
 •	Scalability:
 o	Applicable to large geographical areas.
-8. Economic Model:
+# Economic Model:
 •	Subscription-Based Model:
 o	Provides system access to landowners and government entities.
 o	Offers tiered pricing based on functionality.
