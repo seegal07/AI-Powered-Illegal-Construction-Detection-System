@@ -1,15 +1,18 @@
 # AI-Powered-Illegal-Construction-Detection-System
 An AI-based system for automatic identification of illegal constructions using data from the state cadastre, geospatial data, and aerial imagery.
-2. Background:
+# Short Summary:
+An AI-based system for automatic identification of illegal constructions using data from the state cadastre, geospatial data, and aerial imagery.
+![image](https://github.com/seegal07/AI-Powered-Illegal-Construction-Detection-System/assets/111071467/9776f307-a591-4e61-a8aa-1ba68bbc9784)
+# Background:
 Problem:
 •	Land grabbing (illegal construction with the aim of subsequent legalization).
 •	The complexity and high cost of identifying illegal construction at the early stages.
 •	The prevalence of the problem in countries with imperfect legislative and executive systems.
-Solution:
+# Solution:
 •	An automated AI-based system for detecting illegal constructions.
 •	Preventing land ownership losses for landowners.
 •	Cost savings for illegal builders, timely awareness of the consequences of their actions.
-3. Data Processing and AI Methods:
+# Data Processing and AI Methods:
 •	Data Usage:
 o	State cadastre (information on owners, land boundaries).
 o	Geospatial data (satellite images, maps).
@@ -23,7 +26,7 @@ o	Object Classification:
 o	Model Training:
 	Using datasets with labeled examples (legal/illegal buildings).
 	Improving system accuracy over time.
-4. How it is Used:
+# How it is Used:
 •	Landowners:
 o	Monitoring their land for illegal encroachment.
 o	Receiving notifications of potential violations.
@@ -31,7 +34,7 @@ o	Receiving notifications of potential violations.
 o	Monitoring compliance with land laws.
 o	Effectively planning and conducting inspections.
 o	Preventing land grabs and illegal construction.
-5. Challenges:
+# Challenges:
 •	Limited Data Availability:
 o	The need for up-to-date and complete data from the cadastre.
 o	Ensuring regular updating of aerial imagery data.
@@ -41,7 +44,7 @@ o	Legal nuances requiring expert assessment.
 •	False Positives:
 o	The need to improve AI algorithms to minimize errors.
 o	Manual verification of potential violations.
-6. What's Next:
+# What's Next:
 •	Expanding Functionality:
 o	Assessing the legality of existing buildings.
 o	Providing recommendations for eliminating violations.
@@ -64,7 +67,7 @@ o	Identifying inconsistencies in height, shape, and location.
 •	Reinforcement Learning Algorithms:
 o	Optimizing the system to minimize false positives.
 o	Automatic learning based on new data and examples.
-7. Competitive Landscape:
+#  Competitive Landscape:
 While various land monitoring solutions exist, most fail to fully leverage AI. Key competitors include:
 •	Satellite Monitoring Systems:
 o	Provide imagery of land plots but may not automatically detect violations.
@@ -81,7 +84,7 @@ o	Utilizes AI algorithms to minimize errors.
 o	Analyzes diverse data sources for a complete picture.
 •	Scalability:
 o	Applicable to large geographical areas.
-8. Economic Model:
+# Economic Model:
 •	Subscription-Based Model:
 o	Provides system access to landowners and government entities.
 o	Offers tiered pricing based on functionality.
