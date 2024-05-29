@@ -1,21 +1,21 @@
-# AI-Powered-Illegal-Construction-Detection-System
+# AI-Powered Illegal Construction Detection System
 
 Building AI course project
 
-An AI-based system for automatic identification of illegal constructions using data from the state cadastre, geospatial data, and aerial imagery.
-## Summary:
-An AI-based system for automatic identification of illegal constructions using data from the state cadastre, geospatial data, and aerial imagery.
-![image](https://github.com/seegal07/AI-Powered-Illegal-Construction-Detection-System/assets/111071467/9776f307-a591-4e61-a8aa-1ba68bbc9784)
+# Summary:
+An AI-based system for automatic identification of illegal constructions using data from the state cadastre, geospatial data, and aerial imagery. In today's dynamic world, ensuring the integrity of land ownership and combating illegal construction practices are crucial challenges. To address these issues effectively, an innovative AI-powered system for detecting illegal constructions is proposed. This system, leveraging the power of artificial intelligence, geospatial data, and aerial imagery, aims to revolutionize land monitoring and enforcement practices.
+
 # Background:
 Problem:
 •	Land grabbing (illegal construction with the aim of subsequent legalization).
 •	The complexity and high cost of identifying illegal construction at the early stages.
 •	The prevalence of the problem in countries with imperfect legislative and executive systems.
-# Solution:
+Solution:
 •	An automated AI-based system for detecting illegal constructions.
 •	Preventing land ownership losses for landowners.
 •	Cost savings for illegal builders, timely awareness of the consequences of their actions.
 # Data Processing and AI Methods:
+
 •	Data Usage:
 o	State cadastre (information on owners, land boundaries).
 o	Geospatial data (satellite images, maps).
@@ -30,6 +30,7 @@ o	Model Training:
 	Using datasets with labeled examples (legal/illegal buildings).
 	Improving system accuracy over time.
 # How it is Used:
+
 •	Landowners:
 o	Monitoring their land for illegal encroachment.
 o	Receiving notifications of potential violations.
@@ -38,6 +39,7 @@ o	Monitoring compliance with land laws.
 o	Effectively planning and conducting inspections.
 o	Preventing land grabs and illegal construction.
 # Challenges:
+
 •	Limited Data Availability:
 o	The need for up-to-date and complete data from the cadastre.
 o	Ensuring regular updating of aerial imagery data.
@@ -48,6 +50,7 @@ o	Legal nuances requiring expert assessment.
 o	The need to improve AI algorithms to minimize errors.
 o	Manual verification of potential violations.
 # What's Next:
+
 •	Expanding Functionality:
 o	Assessing the legality of existing buildings.
 o	Providing recommendations for eliminating violations.
@@ -70,7 +73,8 @@ o	Identifying inconsistencies in height, shape, and location.
 •	Reinforcement Learning Algorithms:
 o	Optimizing the system to minimize false positives.
 o	Automatic learning based on new data and examples.
-#  Competitive Landscape:
+# Competitive Landscape:
+
 While various land monitoring solutions exist, most fail to fully leverage AI. Key competitors include:
 •	Satellite Monitoring Systems:
 o	Provide imagery of land plots but may not automatically detect violations.
@@ -87,7 +91,7 @@ o	Utilizes AI algorithms to minimize errors.
 o	Analyzes diverse data sources for a complete picture.
 •	Scalability:
 o	Applicable to large geographical areas.
-# Economic Model:
+8. Economic Model:
 •	Subscription-Based Model:
 o	Provides system access to landowners and government entities.
 o	Offers tiered pricing based on functionality.
@@ -96,4 +100,4 @@ o	Collaborates with data providers (satellite imagery, cadastral data).
 •	Personalized Solutions:
 o	Develops customized systems for large clients (cities, regions).
 
-![image](https://github.com/seegal07/AI-Powered-Illegal-Construction-Detection-System/assets/111071467/9b71be0f-32f5-45f7-b1b3-fef32859401a)
+![image](https://github.com/seegal07/AI-Powered-Illegal-Construction-Detection-System/assets/111071467/ce878272-233b-47a4-9d9e-62de5f5fcd63)
